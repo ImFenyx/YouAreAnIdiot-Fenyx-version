@@ -9,9 +9,11 @@ Inspired by the You Are an Idiot virus, an old website that created several tabs
 - PyAutoGui + Pygame
 
 # Installation:
-- Install Python
+- Install <a href="https://www.python.org/downloads/">Python</a>
 - Run the commands in cmd:
-1. pip install pyautogui
-2. pip install pygame
+```python
+pip install pyautogui
+pip install pygame
+```
 - Extract the "have-fun.zip"
 - Run the "pylod1.py"
