@@ -4,7 +4,7 @@ Fake Trojan that restarts the video driver constantly and spams the phrase "You 
 Inspired by the You Are an Idiot virus, an old website that created several tabs of the site until the PC couldn't cope
 
 # Requirements:
-- Windows
+- Windows 10+
 - Python 3
 - PyAutoGui + Pygame
 
